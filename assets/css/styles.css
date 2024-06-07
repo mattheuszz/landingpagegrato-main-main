@@ -428,6 +428,13 @@ img {
   transition: color .3s;
 }
 
+#sobre-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
 .nav__link::after {
   content: '';
   width: 0;
