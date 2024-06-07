@@ -1422,6 +1422,12 @@ li.description-3 b {
     position: relative;
   }
 
+  .home__container-99 {
+    grid-template-columns: 350px;
+    justify-content: center;
+    z-index: 99;
+    position: relative;
+  }
 
   .contact__data {
     width: 350px;
@@ -1770,7 +1776,7 @@ li.description-3 b {
     /* z-index: 3; */
   }
 
-  .home__container-99 {
+  .home__container {
     grid-template-columns: repeat(2, 468px);
     gap: 2rem 4rem;
     align-items: center;
