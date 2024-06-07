@@ -1420,7 +1420,6 @@ li.description-3 b {
     justify-content: center;
     z-index: 99;
     position: relative;
-    display: flex;
   }
 
   .home__container-99 {
@@ -1428,6 +1427,7 @@ li.description-3 b {
     justify-content: center;
     z-index: 99;
     position: relative;
+    display: flex;
   }
 
   .contact__data {
