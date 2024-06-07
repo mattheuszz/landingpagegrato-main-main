@@ -1422,13 +1422,6 @@ li.description-3 b {
     position: relative;
   }
 
-  .home__container-99 {
-    grid-template-columns: 350px;
-    justify-content: center;
-    z-index: 99;
-    position: relative;
-    display: flex;
-  }
 
   .contact__data {
     width: 350px;
