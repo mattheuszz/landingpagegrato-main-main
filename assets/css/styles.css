@@ -341,9 +341,7 @@ img {
 @media screen and (max-width: 1150px) {
   .E-books_container {
     display: flex;
-    justify-content: center;
-    gap: 40px;
-    position: relative;
+    flex-direction: column;
   }
 
   .topic {
