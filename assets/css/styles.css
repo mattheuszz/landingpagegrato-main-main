@@ -1646,11 +1646,8 @@ li.description-3 b {
 
   .footer {
     background-color: #5C5CFF;
-    /* Define a cor de fundo do footer para preto */
     position: relative;
-    /* Certifique-se de que o <footer> tenha uma posição relativa */
     z-index: 2;
-    /* Certifique-se de que o <footer> esteja acima do <svg> */
   }
 
   .nav {
@@ -1705,10 +1702,10 @@ li.description-3 b {
     padding: 0.5rem 2.4rem;
     border-radius: 8px;
     width: 100%;
-    display: flex;          /* Adicione esta linha */
-    justify-content: center; /* Adicione esta linha */
-    align-items: center;     /* Adicione esta linha */
-    text-align: center;     /* Adicione esta linha */
+    display: flex;          
+    justify-content: center; 
+    align-items: center;    
+    text-align: center;    
   }
 
   .nav__link-button3 {
@@ -1718,17 +1715,17 @@ li.description-3 b {
     border-radius: 8px;
     width: 45%;
     font-size: 12px;
-    display: flex;          /* Adicione esta linha */
-    justify-content: center; /* Adicione esta linha */
-    align-items: center;     /* Adicione esta linha */
-    text-align: center;     /* Adicione esta linha */
+    display: flex;          
+    justify-content: center; 
+    align-items: center;    
+    text-align: center;     
     height: 25px;
   }
   
   .texto-vermelho {
-    display: flex;          /* Adicione esta linha */
-    align-items: center;     /* Adicione esta linha */
-    text-align: center;     /* Adicione esta linha */
+    display: flex;        
+    align-items: center;    
+    text-align: center;     
   }
 
   .texto-vermelho b {
