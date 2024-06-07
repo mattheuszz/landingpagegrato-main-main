@@ -1623,17 +1623,11 @@ li.description-3 b {
 
   .curve-footer {
     position: absolute;
-    /* Posição absoluta para o <svg> */
     bottom: 13rem;
-    /* Alinhe a parte inferior do <svg> com a parte inferior do <footer> */
     left: 0;
-    /* Alinhe a esquerda do <svg> com a esquerda do <footer> */
     width: 100%;
-    /* Garanta que o <svg> tenha a largura total do <footer> */
     margin-bottom: -50px;
-    /* Ajuste a margem negativa para sobrepor o footer */
     z-index: 1;
-    /* Certifique-se de que o <svg> esteja abaixo do <footer> */
     overflow: hidden;
     transform: scaleX(-1);
   }
