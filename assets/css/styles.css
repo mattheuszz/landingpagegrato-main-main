@@ -218,15 +218,6 @@ a {
 
 /*=============== E-BOOKS ===============*/
 
-/* Container principal dos E-books */
-
-.E-books_container {
-  display: block ruby; /* Define o contêiner como flexível */
-  justify-content: space-between; /* Distribui o espaço restante entre os itens */
-  gap: 40px; /* Define um espaço de 40px entre os itens */
-  position: relative;
-}
-
 /* Estilos para cada E-book */
 .Ebook-1, .Ebook-2, .Ebook-3 {
   display: flex;
@@ -1206,13 +1197,6 @@ li.description-3 b {
   }
 }
 
-.E-books_container {
-  /* display: flex; */
-  flex-direction: column;
-  justify-content: space-between;
-  gap: 40px;
-  position: relative;
-}
 
 .container {
   margin-inline: 1rem;
