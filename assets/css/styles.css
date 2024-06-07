@@ -485,7 +485,8 @@ img {
 }
 
 .home__container,
-.home__container-2 {
+.home__container-2,
+.home__container-99 {
   padding-top: 8rem;
 }
 
@@ -1419,6 +1420,14 @@ li.description-3 b {
     justify-content: center;
     z-index: 99;
     position: relative;
+    display: flex;
+  }
+
+  .home__container-99 {
+    grid-template-columns: 350px;
+    justify-content: center;
+    z-index: 99;
+    position: relative;
   }
 
   .contact__data {
@@ -1758,6 +1767,17 @@ li.description-3 b {
 
   .home__container,
   .home__container-2 {
+    grid-template-columns: repeat(2, 468px);
+    gap: 2rem 4rem;
+    align-items: center;
+    /* padding-block: 13.5rem;  */
+    /* padding-top: 15rem; */
+    z-index: 7;
+    position: relative;
+    /* z-index: 3; */
+  }
+
+  .home__container-99 {
     grid-template-columns: repeat(2, 468px);
     gap: 2rem 4rem;
     align-items: center;
