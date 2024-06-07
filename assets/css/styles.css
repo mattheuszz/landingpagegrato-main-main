@@ -1115,7 +1115,6 @@ li.description-3 b {
 
 
 .contac-message {
-  /* color: var(--white-color); */
   font-size: var(--small-font-size);
   position: absolute;
   bottom: 1.6rem;
@@ -1126,17 +1125,11 @@ li.description-3 b {
 
 .curve-footer {
   position: absolute;
-  /* Posição absoluta para o <svg> */
   bottom: 13rem;
-  /* Alinhe a parte inferior do <svg> com a parte inferior do <footer> */
   left: 0;
-  /* Alinhe a esquerda do <svg> com a esquerda do <footer> */
   width: 100%;
-  /* Garanta que o <svg> tenha a largura total do <footer> */
   margin-bottom: -50px;
-  /* Ajuste a margem negativa para sobrepor o footer */
   z-index: 1;
-  /* Certifique-se de que o <svg> esteja abaixo do <footer> */
   overflow: hidden;
   transform: scaleX(-1);
 }
@@ -1187,7 +1180,6 @@ li.description-3 b {
 
 /* TÓPICO 1, TÓPICO 2, TÓPICO 3  */
 .home__info {
-  /* display: flex; */
   flex-direction: column;
   align-items: flex-start;
   flex-direction: column;
@@ -1197,7 +1189,6 @@ li.description-3 b {
   margin-bottom: 20px;
   align-content: center;
   align-items: center;
-  /* display: flex; */
   flex-direction: column;
   justify-content: space-between;
   gap: 5px; 
@@ -1232,48 +1223,6 @@ li.description-3 b {
 .footer__links {
   color: var(--cor-lilas-claro);
 }
-
-/* .footer {
-  background-color: var(--black-color);
-  display: flex;
-  justify-content: center;
-}
-
-.footer__container {
-  padding-block: 3rem 2rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.footer__links {
-  color: var(--cor-lilas-claro);
-}
-
-
-.footer__link {
-  color: var(--white-color);
-  transition: color .4s;
-}
-
-.footer__link:hover {
-  color: var(--text-color-light);
-}
-
-.footer__copy {
-  color: var(--white-color);
-  font-size: var(--small-font-size);
-  text-align: center;
-}
-
-.footer__copy i {
-  font-size: 1.3rem;
-}
-
-.footer__copy a {
-  color: var(--white-color);
-  font-weight: var(--font-medium);
-} */
 
 
 
@@ -1768,11 +1717,8 @@ li.description-3 b {
     grid-template-columns: repeat(2, 468px);
     gap: 2rem 4rem;
     align-items: center;
-    /* padding-block: 13.5rem;  */
-    /* padding-top: 15rem; */
     z-index: 7;
     position: relative;
-    /* z-index: 3; */
   }
 
   .home__perfil-3 {
