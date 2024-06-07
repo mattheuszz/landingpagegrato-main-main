@@ -1611,7 +1611,6 @@ li.description-3 b {
   .home__container-4 {
     grid-template-columns: repeat(2, 468px);
     gap: 2rem 4rem;
-    align-items: center;
     padding-block: 7.5rem;
     flex-direction: column;
     /* padding-top: 15rem; */
@@ -1620,10 +1619,6 @@ li.description-3 b {
     /* z-index: 3; */
     display: flex;
     justify-content: center;
-  }
-
-  .geometry-box {
-    transform: scale(1.2);
   }
 
   .curve-footer {
