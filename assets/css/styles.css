@@ -341,8 +341,8 @@ img {
 @media screen and (max-width: 1150px) {
   .E-books_container {
     display: flex;
-    flex-direction: row;
     align-items: center;
+    flex-direction: row;
   }
 
   .topic {
@@ -1777,6 +1777,17 @@ li.description-3 b {
     left: 0;
     top: 14px;
   }
+
+  .home__img-88 {
+    content: '';
+    width: 32px;
+    height: 2px;
+    background-color: var(--title-color);
+    position: absolute;
+    left: 0;
+    top: 14px;
+  }
+
 
   .home__scroll {
     margin: 0;
