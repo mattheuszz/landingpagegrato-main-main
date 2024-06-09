@@ -527,7 +527,7 @@ font-size: 20px;
   z-index: 10;
 }
 
-.home__img-2 {
+.home__img-88 {
   z-index: 10;
 }
 
@@ -1741,6 +1741,12 @@ li.description-3 b {
     width: 350px;
     bottom: 0;
   }
+
+  .home__img-88 {
+    width: 350px;
+    bottom: 0;
+  }
+
 
   .home__shadow {
     right: -1.25rem;
