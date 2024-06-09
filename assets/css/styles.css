@@ -221,7 +221,7 @@ a {
 /* Container principal dos E-books */
 
 .E-books_container {
-  display: ruby; /* Define o contêiner como flexível */
+  display: flex; /* Define o contêiner como flexível */
   justify-content: space-between; /* Distribui o espaço restante entre os itens */
   gap: 40px; /* Define um espaço de 40px entre os itens */
   position: relative;
