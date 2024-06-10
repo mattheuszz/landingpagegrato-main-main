@@ -1179,6 +1179,7 @@ li.description-3 b {
   height: 167px;
   display: flex;
   padding: 10px;
+  justify-content: center;
 }
 
 
