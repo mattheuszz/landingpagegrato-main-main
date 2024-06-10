@@ -563,6 +563,7 @@ font-size: 20px;
   transition: filter .4s;
 }
 
+
 .home__arrow {
   left: 40%;
   bottom: -4rem;
@@ -1551,6 +1552,8 @@ li.description-3 b {
     margin-inline: auto;
   }
 
+
+  
   .section__title-1::after,
   .section__title-2::after {
     width: 70px;
