@@ -1161,15 +1161,6 @@ li.description-3 b {
 
 }
 
-.container-preco {
-  width: 461px;
-  height: 137px;
-  padding: 10px;
-  flex-direction: row;
-  gap: 10px;
-}
-
-
 .footer__links {
   display: flex;
   justify-content: center;
@@ -1277,6 +1268,15 @@ li.description-3 b {
   letter-spacing: 1.3px;
   color: var(--white-color);
 }
+
+.container-preco {
+  width: 461px;
+  height: 137px;
+  padding: 10px;
+  flex-direction: row;
+  gap: 10px;
+}
+
 
 /* Mostrar scroll up */
 
