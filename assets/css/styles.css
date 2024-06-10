@@ -1170,6 +1170,29 @@ li.description-3 b {
   gap: 3.2rem;
 }
 
+
+/*=============== Container-Preco ===============*/
+
+
+.container-preco {
+  width: 461px;
+  height: 167px;
+  display: flex;
+  padding: 10px;
+}
+
+
+.container-desc {
+  width: 246px;
+  height: 90px;
+}
+
+.container-logo {
+  width: 115px;
+  height: 90px;
+}
+
+
 .footer__link {
   color: var(--white-color);
   transition: color .4s;
