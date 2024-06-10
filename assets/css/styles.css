@@ -1173,11 +1173,12 @@ li.description-3 b {
 
 /*=============== Container-Preco ===============*/
 
-
 .container-final {
   gap: 1rem;
   flex-direction: column;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
