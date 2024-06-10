@@ -1552,12 +1552,12 @@ li.description-3 b {
     margin-inline: auto;
   }
 
-  .container-preco {
+  /* .container-preco {
     width: 461px;
     height: 137px;
     padding: 10px;
     flex-direction: column;
-  }
+  } */
 
   
   .section__title-1::after,
