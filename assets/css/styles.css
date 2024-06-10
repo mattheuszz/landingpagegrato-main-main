@@ -1174,6 +1174,13 @@ li.description-3 b {
 /*=============== Container-Preco ===============*/
 
 
+.container-final {
+  gap: 1rem;
+  flex-direction: column;
+  display: flex;
+}
+
+
 .container-preco-1 {
   width: 461px;
   height: 167px;
