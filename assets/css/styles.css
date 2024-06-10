@@ -1269,14 +1269,6 @@ li.description-3 b {
   color: var(--white-color);
 }
 
-.container-preco {
-  width: 461px;
-  height: 137px;
-  padding: 10px;
-  flex-direction: row;
-  gap: 10px;
-}
-
 
 /* Mostrar scroll up */
 
@@ -1559,6 +1551,8 @@ li.description-3 b {
   .container {
     margin-inline: auto;
   }
+
+
   
   .section__title-1::after,
   .section__title-2::after {
