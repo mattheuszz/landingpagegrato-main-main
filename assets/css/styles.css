@@ -1235,11 +1235,6 @@ li.description-3 b {
   flex-direction: column;
 }
 
-.home__container-99 {
-  align-items: center;
-  justify-content: center;
-  display: flex;
-}
 
 .topic {
   margin-bottom: 20px;
