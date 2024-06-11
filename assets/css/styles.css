@@ -617,6 +617,8 @@ font-size: 20px;
 .home__description {
   text-align: center;
   color: var(--title-color);
+  align-items: center;
+  margin-inline: 15px;
   margin-bottom: 1.5rem;
 }
 
