@@ -444,6 +444,15 @@ img {
   background-color: #f1f0f5;
 }
 
+#sobre-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  background-color: #f1f0f5;
+  height: 650px;
+}
+
 .nav__link::after {
   content: '';
   width: 0;
