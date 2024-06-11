@@ -341,9 +341,9 @@ img {
 
 @media screen and (max-width: 1150px) {
   .E-books_container {
-    display: -webkit-inline-box;
+    /* display: -webkit-inline-box; */
     align-items: center;
-    flex-direction: row;
+    /* flex-direction: row; */
   }
 
   .home__container-99 {
