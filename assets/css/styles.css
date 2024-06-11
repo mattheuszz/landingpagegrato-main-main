@@ -620,7 +620,8 @@ font-size: 20px;
   align-items: center;
   margin-inline: 15px;
   margin-bottom: 1.5rem;
-  padding-left: 30px;
+  padding-left: 10px;
+  padding-right: 20px;
 }
 
 /* #inicio {
