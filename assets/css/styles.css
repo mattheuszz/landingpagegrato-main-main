@@ -1672,13 +1672,6 @@ li.description-3 b {
     flex-direction: column;
   } */
 
-  .E-books_container {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    gap: 40px;
-    position: relative;
-  }
   
   .section__title-1::after,
   .section__title-2::after {
