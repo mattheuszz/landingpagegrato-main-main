@@ -529,6 +529,11 @@ img {
   text-align: center;
 }
 
+.home__name-principal {
+  font-size: 30px;
+  text-align: center;
+}
+
 .home__name {
   font-size: 30px;
   text-align: center;
@@ -1878,6 +1883,10 @@ li.description-3 b {
   .home__description {
     text-align: initial;
   }
+
+  .home__name-principal {
+    text-align: initial;
+  }
   
   .home__name-22 {
     font-size: 30px;
@@ -1892,6 +1901,13 @@ li.description-3 b {
   .home__name-44 {
     align-self: flex-end;
     width: 100%;
+  }
+
+  .home__name-principal {
+    align-self: flex-end;
+    width: 100%;
+    justify-content: center;
+    display: flex;
   }
 
   .home__name {
