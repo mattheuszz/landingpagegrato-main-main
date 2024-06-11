@@ -1205,13 +1205,12 @@ li.description-3 b {
 
 .container-valor {
   display: flex;
-  flex-direction: column;
 }
 
 .container-preco-1 {
   width: 461px;
   height: 167px;
-  /* display: flex; */
+  display: flex;
   padding: 10px;
   justify-content: center;
 }
@@ -1219,7 +1218,7 @@ li.description-3 b {
 .container-preco-2 {
   width: 461px;
   height: 167px;
-  /* display: flex; */
+  display: flex;
   padding: 10px;
   justify-content: center;
 }
@@ -1227,7 +1226,7 @@ li.description-3 b {
 .container-preco-3 {
   width: 461px;
   height: 167px;
-  /* display: flex; */
+  display: flex;
   padding: 10px;
   justify-content: center;
 }
