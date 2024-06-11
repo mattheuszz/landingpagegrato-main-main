@@ -532,6 +532,7 @@ img {
 .home__name-principal {
   font-size: 40px;
   text-align: center;
+  font-weight: bolder;
 }
 
 .home__name {
