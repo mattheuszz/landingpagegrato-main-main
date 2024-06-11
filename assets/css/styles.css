@@ -1841,6 +1841,12 @@ li.description-3 b {
     display: flex;
   }
 
+  .home__container-99 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+
   .home__image,
   .video,
   .home__img-2 */ .home__description::after {
