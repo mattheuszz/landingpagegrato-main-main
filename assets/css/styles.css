@@ -1235,6 +1235,11 @@ li.description-3 b {
   flex-direction: column;
 }
 
+.home__container-99 {
+  flex-direction: column;
+  align-items: flex-start;
+  flex-direction: column;
+}
 
 .topic {
   margin-bottom: 20px;
