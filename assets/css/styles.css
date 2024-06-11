@@ -1205,6 +1205,7 @@ li.description-3 b {
 
 .container-valor {
   display: flex;
+  flex-direction: column;
 }
 
 .container-preco-1 {
@@ -1212,6 +1213,7 @@ li.description-3 b {
   height: 167px;
   display: flex;
   padding: 10px;
+  flex-direction: row;
   justify-content: center;
 }
 
@@ -1220,6 +1222,7 @@ li.description-3 b {
   height: 167px;
   display: flex;
   padding: 10px;
+  flex-direction: row;
   justify-content: center;
 }
 
@@ -1228,6 +1231,7 @@ li.description-3 b {
   height: 167px;
   display: flex;
   padding: 10px;
+  flex-direction: row;
   justify-content: center;
 }
 
