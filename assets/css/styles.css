@@ -516,7 +516,7 @@ img {
 
 .home__name-4 {
   font-size: 30px;
-  /* text-align: center; */
+  text-align: center;
 }
 
 .home__name-22 {
@@ -532,7 +532,7 @@ img {
 .home__name-principal {
   font-size: 40px;
   text-align: center;
-  font-weight: bolder;
+  font-weight: bold;
 }
 
 .home__name {
