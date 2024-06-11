@@ -1359,7 +1359,7 @@ li.description-3 b {
 
 @media screen and (max-width: 340px) {
   .E-books_container {
-    display: flex;
+    display: -webkit-inline-box;
     flex-direction: column;
     justify-content: space-between;
     gap: 40px;
