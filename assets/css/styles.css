@@ -1246,6 +1246,9 @@ li.description-3 b {
   align-items: flex-start;
   flex-direction: column;
   margin-top: 30px;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
 }
 
 .topic {
@@ -1268,6 +1271,10 @@ li.description-3 b {
     align-items: center;
     justify-content: center;
     display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
   }
 }
 
@@ -1852,6 +1859,10 @@ li.description-3 b {
     align-items: center;
     justify-content: center;
     display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
   }
 
   .home__image,
