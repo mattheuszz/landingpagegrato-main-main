@@ -519,6 +519,11 @@ img {
   text-align: center;
 }
 
+.home__name-22 {
+  font-size: 30px;
+  text-align: center;
+}
+
 .home__name-44 {
   font-size: 30px;
   text-align: center;
@@ -1872,6 +1877,11 @@ li.description-3 b {
   .home__name,
   .home__description {
     text-align: initial;
+  }
+  
+  .home__name-22 {
+    font-size: 30px;
+    text-align: center;
   }
   
   .home__name-4 {
