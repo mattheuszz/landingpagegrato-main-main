@@ -347,6 +347,7 @@ img {
 
   .home__container-99 {
     align-items: center;
+    margin-top: 30px;
     justify-content: center;
     display: flex;
 }
@@ -1269,6 +1270,7 @@ li.description-3 b {
 
   .home__container-99 {
     align-items: center;
+    margin-top: 30px;
     justify-content: center;
     display: flex;
     align-items: center;
@@ -1856,6 +1858,7 @@ li.description-3 b {
 
   .home__container-99 {
     align-items: center;
+    margin-top: 30px;
     justify-content: center;
     display: flex;
     align-items: center;
@@ -2168,4 +2171,3 @@ li.description-3 b {
   .scrollup {
     right: 3rem;
   }
-}
