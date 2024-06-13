@@ -1243,18 +1243,18 @@ li.description-3 b {
 }
 
 .container-preco-2 {
-  width: 461px;
+  /* width: 461px;
   height: 167px;
-  display: flex;
+  display: flex; */
   padding: 10px;
   flex-direction: row;
   justify-content: center;
 }
 
 .container-preco-3 {
-  width: 461px;
+  /* width: 461px;
   height: 167px;
-  display: flex;
+  display: flex; */
   padding: 10px;
   flex-direction: row;
   justify-content: center;
