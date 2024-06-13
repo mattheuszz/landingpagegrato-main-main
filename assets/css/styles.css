@@ -514,21 +514,6 @@ img {
   padding-top: 8rem;
 }
 
-.home__name-4 {
-  font-size: 30px;
-  text-align: center;
-}
-
-.home__name-22 {
-  font-size: 30px;
-  text-align: center;
-}
-
-.home__name-44 {
-  font-size: 30px;
-  text-align: center;
-}
-
 .home__name-principal {
   font-size: 40px;
   text-align: center;
@@ -1497,6 +1482,21 @@ li.description-3 b {
     position: relative;
   }
 
+  .home__name-4 {
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .home__name-22 {
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .home__name-44 {
+    font-size: 30px;
+    text-align: center;
+  }  
+
   .contact__data {
     width: 350px;
     padding: 4rem 1.5rem;
@@ -1588,6 +1588,21 @@ li.description-3 b {
   .services__container {
     grid-template-columns: repeat(2, 250px);
   }
+
+  .home__name-4 {
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .home__name-22 {
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .home__name-44 {
+    font-size: 30px;
+    text-align: center;
+  }  
 
   .projects__container {
     grid-template-columns: repeat(2, 350px);
