@@ -1927,6 +1927,8 @@ li.description-3 b {
   .home__name-4 {
     align-self: flex-end;
     width: 100%;
+    width: 100%;
+    display: flex;
   }
 
   .home__name-44 {
