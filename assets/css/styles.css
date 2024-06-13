@@ -618,6 +618,10 @@ font-size: 20px;
   z-index: 10;
 }
 
+.home__img-9 {
+  width: 50px;
+}
+
 .home__social {
   height: max-content;
   position: absolute;
