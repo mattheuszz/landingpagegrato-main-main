@@ -1233,6 +1233,11 @@ li.description-3 b {
   flex-direction: column;
 }
 
+.container-final {
+  display: flex;
+  flex-direction: column;
+}
+
 .container-preco-1 {
   display: flex; 
   padding: 10px;
